@@ -1,0 +1,14 @@
+<servers>
+    <server 
+        name="💢 MASTER ID 💢"
+        ca="0"
+        continent_code="ID"
+        country="01"
+        country_code="ID"
+        ip="beve-studio.my.id"
+        port="3939"
+        region="indonesia"
+        url="beve-studio.my.id"
+        token=""
+    />
+</servers>
